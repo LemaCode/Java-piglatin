@@ -1,7 +1,5 @@
 
 // Name: Manasse Bosango
-// Date: 05/24/20222
-// Classs: CS210
 // Reason: Understand the importance and the use of file in java and programming
 import java.io.File;
 import java.io.FileNotFoundException;
